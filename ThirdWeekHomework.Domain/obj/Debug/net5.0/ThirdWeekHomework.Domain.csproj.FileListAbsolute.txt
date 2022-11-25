@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\bin\Debug\net5.0\ThirdWeekHomework.Domain.deps.json
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\bin\Debug\net5.0\ThirdWeekHomework.Domain.runtimeconfig.json
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\bin\Debug\net5.0\ThirdWeekHomework.Domain.runtimeconfig.dev.json
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\bin\Debug\net5.0\ThirdWeekHomework.Domain.dll
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\bin\Debug\net5.0\ref\ThirdWeekHomework.Domain.dll
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\bin\Debug\net5.0\ThirdWeekHomework.Domain.pdb
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.dll
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ref\ThirdWeekHomework.Domain.dll
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.pdb
+C:\Users\user\source\repos\ThirdWeekHomework\ThirdWeekHomework.Domain\obj\Debug\net5.0\ThirdWeekHomework.Domain.genruntimeconfig.cache
